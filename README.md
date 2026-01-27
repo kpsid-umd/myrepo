@@ -1,4 +1,4 @@
 # myrepo
 Repository for testing my Git/GitHub setup
 A line I wrote on my local computer
-This line is from RStudio
+This is a line I wrore from RStudio
